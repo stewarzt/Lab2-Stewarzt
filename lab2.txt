@@ -1,0 +1,30 @@
+1. Yes, SVN and Git.
+
+2. Yes, cmd and bash.
+
+3. Tells git to add thatfile to the the next commit.
+
+4. Tells git to make a new commit/version.
+
+5. Tells git to upload it to the server.
+
+6. two people on the team, so three copies.
+
+7. Five, but we did some extra for testing. 
+
+8. I did, for part Four.
+
+9. Committed the "First Change"
+
+10. Two. Three, one for his, mine, and master.
+11. Zero, One.
+12. Sets up a new branch that can be used for differing Code.
+13. Changes the branch
+
+14. two, so 3 versions.
+
+15. Two. We performed two merges, one fast forwarded, one manual.
+
+16. three, his, mine, master.
+17. No, we merged in changes, so the master is different from both.
+ 
